@@ -11,7 +11,7 @@ internal class exercise_6
     }
     static void Main()
     {
-        /*Console.WriteLine("EX01");
+        Console.WriteLine("EX01");
         Console.WriteLine("Bai 1. Tao mang.");
         arr();
 
@@ -40,7 +40,7 @@ internal class exercise_6
         Console.Write("Nhap 1 so trong mang da cho:");
         int num=Convert.ToInt32(Console.ReadLine());
         Console.Write($"Vi tri cua {num} la: ");
-        Search(a,num);*/
+        Search(a,num);
 
         Console.WriteLine("EX02");
         Console.WriteLine("Nhap thong tin nhan vien cong ty.");
